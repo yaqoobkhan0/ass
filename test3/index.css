@@ -1,0 +1,52 @@
+body{
+    background-color: lightskyblue;
+    text-align: center;
+}
+h1{
+    background-color: lightgreen;
+}
+h2{
+    background-color: yellow;
+}
+h3{
+    background-color: yellow;
+}
+h2{
+    background-color: yellow;
+}
+.wrapper{
+    background-color: lightgreen; 
+}
+.container1
+{
+    background-color: pink;
+
+}
+.header{
+    background-color: yellow;
+   
+}
+.navigation{
+    background-color: darkviolet;
+  
+  
+}
+.container2{
+    background-color: yellow;
+
+   
+}
+.content{
+    background-color: pink;
+    margin: 4vh;
+
+}
+.float_right{
+    background-color: pink;
+    margin: 4vh;
+}
+.footer{
+    background-color: pink;
+    margin: 4vh;
+    
+}
