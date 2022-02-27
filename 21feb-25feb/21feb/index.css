@@ -1,0 +1,47 @@
+body{
+    margin: O;
+}
+.dropdown{
+    border: blue;
+}
+.dropdown > ul{
+    background-color: coral;
+  
+}
+.dropdown ul {
+    list-style:none ;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+.dropdown ul a{
+    color: black;
+    text-decoration: none;
+    font-size:18px;
+    padding: 15px;
+    font-weight: bolder;
+    display: block;
+}
+.dropdown ul li{
+    float: left;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.dropdown ul ul{
+    position: absolute;
+    background-color: blueviolet;
+    display: none;
+}
+.dropdown ul ul li{
+    float: none;
+    width: 200px;
+}
+.dropdown ul ul ul{
+    top: 0px;
+    left: 100%;
+}
+.dropdown ul li:hover > ul {
+    display: block;
+}

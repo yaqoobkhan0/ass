@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background-color: palegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chatbox{
+    width: 300px;
+    height: 550px;
+    margin-top: 10px;
+    flex-direction: column;
+    background-color: snow;
+    border-radius: 5px;
+}
+.header{
+    width: 300px;
+    background-color: lightblue;
+    text-align: center;
+    
+}
+.body{
+    background-color: snow;
+}
+
+.message{
+    padding: 10px;
+    margin-left: auto;
+    background-color: darkblue;
+    color: white;
+    width: fit-content;
+
+}
+.other{
+    padding: 10px;
+    margin-right: auto;
+    background-color: rgb(224, 15, 231);
+    color: white;
+    width: fit-content;
+}
+.footer form{
+    height: 40px;
+    padding-left: 5px;
+    display: flex;
+   
+} 
+form input{
+    outline:none;
+    width: fit-content;
+    
+}
+form button{
+    padding: 5px;
+    border: none;
+    outline: none;
+    background-color: darkblue;
+    color: white;
+    border-color: yellowgreen;
+}
