@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(226, 219, 219, 0.959);
+}
+h6{
+    margin-left: 500px;
+    background-color: white;
+    width: fit-content; 
+}
+.header{
+    margin-top: 0px;
+    margin-left: 350px;
+    padding: 10px;
+    background-color: white;
+    width: fit-content;
+    text-align: center;
+}
+.colour{
+    background-color:white;
+    padding: 5px;
+    border-radius: 8px;
+}
+.color{
+    background-color: limegreen;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+}
+.section{
+    background-color: rgb(208, 232, 247);
+    width: 300px;
+    height: 500px;
+    margin-left: 450px ;
+}
+h3{
+    padding: 5px;
+    color: darkblue;
+}
+.upgrade{
+    padding: 15px;
+    background-color: rgb(233, 115, 115);
+    width: 300px;
+    color: white;
+    border-radius: 20px;
+
+}
