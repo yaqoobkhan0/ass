@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+h3{
+    margin-top: 10px;
+    text-align: center;
+}
+.todolist{
+    margin: 15px;
+    text-align: center;
+   background-color: white;
+   border-color: yellowgreen;
+   box-sizing: border-box;
+}
